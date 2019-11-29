@@ -15,7 +15,7 @@
         &copy;
         <script>
           document.write(new Date().getFullYear())
-        </script>, hecho con <i class="material-icons">favorite</i> por estudiantes del itla.
+        </script>, hecho con <i class="material-icons">favorite</i> por Anthony Sánchez, Anthony Lara, Luisabeth Diaz y Greidy Reyes.
       </div>
           <!-- your footer here -->
         </div>
