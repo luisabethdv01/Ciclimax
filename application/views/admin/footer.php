@@ -15,7 +15,7 @@
         &copy;
         <script>
           document.write(new Date().getFullYear())
-        </script>, hecho con <i class="material-icons">favorite</i> por Anthony Sánchez, Anthony Lara, Luisabeth Diaz y Greidy Reyes.
+        </script>, hecho con <i class="material-icons">favorite</i> por Anthony Sánchez - 17-EIST-1-028, Anthony Lara - 17-EIST-1-029, Luisabeth Diaz - 17-EISM-1-079 y Greidy Reyes - 17-EISN-1-152
       </div>
           <!-- your footer here -->
         </div>
